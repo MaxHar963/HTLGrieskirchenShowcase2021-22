@@ -38,6 +38,14 @@
         "year": "2021_WS",
 		"info": "",
         "status": "1"
-    }
+    },
+	{
+	"title": "Racing Game",
+	"folder": "RacingGame",
+	"author": "Samuel Gierlinger",
+	"year": "2021_WS",
+		"info": "",
+	"status": "1"
+	},
 
 ]
