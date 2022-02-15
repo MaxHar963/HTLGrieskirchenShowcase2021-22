@@ -72,5 +72,13 @@
 		"info": "",
         "status": "1"
     },
+    {  
+        "title": "CollectorGame",
+        "folder": "CollectorGame",
+        "author": "Fabian Fischer",
+        "year": "2021_WS",
+		"info": "",
+        "status": "1"
+    },
 
 ]
