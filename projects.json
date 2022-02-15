@@ -190,6 +190,14 @@
 		"year": "2021_WS",
 		"info": "",
 		"status": 1
-	}
+	},
+{  
+        "title": "Skiing Game",
+        "folder": "WebGl_SkiGame_Lkronlachner",
+        "author": "Lucas Kronlachner",
+        "year": "2021_WS",
+		"info": "",
+        "status": "1"
+    }
     
 ]
