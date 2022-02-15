@@ -64,5 +64,13 @@
 	"info": "",
         "status": 1
     },
+    {  
+        "title": "SchmandyRun",
+        "folder": "2DJumpAndRun",
+        "author": "Florian Nadler",
+        "year": "2021_WS",
+		"info": "",
+        "status": "1"
+    },
 
 ]
