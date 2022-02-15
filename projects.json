@@ -80,6 +80,7 @@
 		"info": "",
         "status": "1"
     },
+
     {  
         "title": "CollectorGame",
         "folder": "CollectorGame",
@@ -88,6 +89,7 @@
 		"info": "",
         "status": "1"
     },
+
 
     {  
         "title": "Alquest",
@@ -146,7 +148,24 @@
 	"year": "2021_WS",
 	"info": "",
 	"status": 1
-    }
+    },
+
+{
+	"title": "JumpAndRun",
+	"folder": "JumpAndRun",
+	"author": "Maximilian Kast",
+	"year": "2021_WS",
+	"info": "",
+	"status": 1
+    },
+  {
+	"title": "Udemy Dungeon"
+	"folder": "Emilio_Jamain_Bauchinger_Game",
+	"author": "Emilio Bauchinger",
+	"year": "2021_WS",
+		"info": "", 
+	"status": "1"
+	}
 	,
 	{  
         "title": "Skiing Game",
