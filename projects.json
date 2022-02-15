@@ -47,7 +47,7 @@
         "year": "2021_WS",
 		"info": "",
         "status": 1
-    }
+    },
 	{  
         "title": "Doom FPS",
         "folder": "Doom Fps",
@@ -87,6 +87,6 @@
         "year": "2021_WS",
 		"info": "",
         "status": "1"
-    },
+    }
 
 ]
