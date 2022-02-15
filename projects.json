@@ -5,7 +5,7 @@
         "author": "Fabian Schönberger",
         "year": "2021_WS",
 		"info": "",
-        "status": "1"
+        "status": 1
     },
     {  
         "title": "Potato Clicker",
@@ -13,15 +13,24 @@
         "author": "SturmTim",
         "year": "2021_WS",
 		"info": "",
-        "status": "1"
+        "status": 1
     },
+	{"title": "Impfpass Please", "folder": "ImpfpassPlease", "author": "Fabian Gurtner", "year": "2021_WS", "info": "", "status": 0},
     {
 	"title": "Pacman",
         "folder": "Pacman",
         "author": "Franz Einböck",
         "year": "2021_WS",
 		"info": "",
-        "status": "1"
+        "status": 1
+    },
+{
+	"title": "StrategyGame",
+        "folder": "StrategyGame",
+        "author": "Sandro Greinecker",
+        "year": "2021_WS",
+		"info": "",
+        "status": 1
     },
     {  
         "title": "Tetris",
@@ -29,7 +38,7 @@
         "author": "Franz Einböck",
         "year": "2021_WS",
 		"info": "",
-        "status": "1"
+        "status": 1
     },
 	{  
         "title": "2D Racer",
@@ -37,15 +46,158 @@
         "author": "Klaus Scheiböck",
         "year": "2021_WS",
 		"info": "",
-        "status": "1"
-    }
+        "status": 1
+    },
 	{  
         "title": "Doom FPS",
         "folder": "Doom Fps",
         "author": "David Baumann",
         "year": "2021_WS",
         "info": "",
-        "status": "0"
+        "status": 0
+    },
+    {  
+        "title": "Tales of Silverkeep",
+        "folder": "Tales of Silverkeep",
+        "author": "Andreas Aigner",
+        "year": "2021_WS",
+		"info": "",
+        "status": 1
+    },
+    {  
+        "title": "Jump n Run",
+        "folder": "JumpNRun",
+        "author": "Tamara Wimmer",
+        "year": "2021_WS",
+	"info": "",
+        "status": 1
+    },
+    {  
+        "title": "SchmandyRun",
+        "folder": "2DJumpAndRun",
+        "author": "Florian Nadler",
+        "year": "2021_WS",
+		"info": "",
+        "status": "1"
     },
 
+    {  
+        "title": "CollectorGame",
+        "folder": "CollectorGame",
+        "author": "Fabian Fischer",
+        "year": "2021_WS",
+		"info": "",
+        "status": "1"
+    },
+
+
+    {  
+        "title": "Alquest",
+        "folder": "Alquest",
+        "author": "Michael Ungar",
+        "year": "2021_WS",
+		"info": "",
+        "status": "1"
+    },
+    {
+        "title": "4B Jump'n'Rune",
+	"folder": "4B_Jump_n_Run",
+	"author": "Tobias Wimmer",
+	"year": "2021_WS",
+	"info": "",
+	"status": 1
+    },
+    {
+	"title": "TheLastJanitor",
+	"folder": "TheLastJanitor",
+	"author": "Janik Neißl",
+	"year": "2021_WS",
+	"info": "",
+	"status": 1
+    },
+
+	{
+		"title": "ChargeIt",
+		"folder": "ChargeIt",
+		"author": "Valentin Greiner",
+		"year": "2021_WS",
+		"info": "",
+		"status": 1
+	},
+	
+	{
+		"title": "Bomber2D",
+		"folder": "Bomber2D",
+		"author": "Martin Strasser",
+		"year": "2021_WS",
+		"info": "",
+		"status": 1
+	},
+  {
+	"title": "Racing Game",
+	"folder": "RacingGame",
+	"author": "Samuel Gierlinger",
+	"year": "2021_WS",
+		"info": "",
+	"status": "1"
+	},
+
+  {
+	"title": "JumpNRun",
+	"folder": "JumpnRunGame",
+	"author": "Matthias Stadlbauer",
+	"year": "2021_WS",
+	"info": "",
+	"status": 1
+    },
+  {
+	"title": "SliderGame",
+	"folder": "SliderGame 2.2.0.123",
+	"author": "Andrei Maria",
+	"year": "2021_WS",
+	"info": "",
+	"status": 1
+    },
+
+{
+	"title": "JumpAndRun",
+	"folder": "JumpAndRun",
+	"author": "Maximilian Kast",
+	"year": "2021_WS",
+	"info": "",
+	"status": 1
+    },
+  {
+	"title": "Udemy Dungeon"
+	"folder": "Emilio_Jamain_Bauchinger_Game",
+	"author": "Emilio Bauchinger",
+	"year": "2021_WS",
+		"info": "", 
+	"status": "1"
+	},
+  {
+		"title": "World War",
+		"folder": "WorldWar",
+		"author": "Erik Neulinger",
+		"year": "2021_WS",
+		"info": "",
+		"status": 1
+  },
+	{
+		"title": "DinoGame",
+		"folder": "Game_PanicLeonhard",
+		"author": "Leonhard Panic",
+		"year": "2021_WS",
+		"info": "",
+		"status": 1
+	},
+{  
+        "title": "Skiing Game",
+        "folder": "WebGl_SkiGame_Lkronlachner",
+        "author": "Lucas Kronlachner",
+        "year": "2021_WS",
+		"info": "",
+        "status": "1"
+    }
+    
 ]
