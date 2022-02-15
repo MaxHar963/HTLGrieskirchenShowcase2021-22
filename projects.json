@@ -111,5 +111,13 @@
 	"year": "2021_WS",
 	"info": "",
 	"status": 1
+    },
+    {
+	"title": "JumpNRun",
+	"folder": "JumpnRunGame",
+	"author": "Matthias Stadlbauer",
+	"year": "2021_WS",
+	"info": "",
+	"status": 1
     }
 ]
