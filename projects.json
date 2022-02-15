@@ -150,6 +150,14 @@
 	"info": "",
 	"status": 1
     },
+  {
+	"title": "SliderGame",
+	"folder": "SliderGame 2.2.0.123",
+	"author": "Andrei Maria",
+	"year": "2021_WS",
+	"info": "",
+	"status": 1
+    },
 
 {
 	"title": "JumpAndRun",
@@ -175,6 +183,15 @@
 		"info": "",
 		"status": 1
   },
+	{
+		"title": "DinoGame",
+		"folder": "Game_PanicLeonhard",
+		"author": "Leonhard Panic",
+		"year": "2021_WS",
+		"info": "",
+		"status": 1
+	}
+	,
 	{  
         "title": "Skiing Game",
         "folder": "WebGl_SkiGame_Lkronlachner",
