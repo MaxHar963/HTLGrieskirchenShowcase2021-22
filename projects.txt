@@ -1,0 +1,107 @@
+[   
+    {  
+        "title": "Pew Pew",
+        "folder": "Pew Pew",
+        "author": "Fabian Schönberger",
+        "year": "2021_WS",
+		"info": "",
+        "status": 1
+    },
+    {  
+        "title": "Potato Clicker",
+        "folder": "PotatoClicker",
+        "author": "SturmTim",
+        "year": "2021_WS",
+		"info": "",
+        "status": 1
+    },
+	{"title": "Impfpass Please", "folder": "ImpfpassPlease", "author": "Fabian Gurtner", "year": "2021_WS", "info": "", "status": 0},
+    {
+	"title": "Pacman",
+        "folder": "Pacman",
+        "author": "Franz Einböck",
+        "year": "2021_WS",
+		"info": "",
+        "status": 1
+    },
+{
+	"title": "StrategyGame",
+        "folder": "StrategyGame",
+        "author": "Sandro Greinecker",
+        "year": "2021_WS",
+		"info": "",
+        "status": 1
+    },
+    {  
+        "title": "Tetris",
+        "folder": "Tetris",
+        "author": "Franz Einböck",
+        "year": "2021_WS",
+		"info": "",
+        "status": 1
+    },
+	{  
+        "title": "2D Racer",
+        "folder": "RacerBuild",
+        "author": "Klaus Scheiböck",
+        "year": "2021_WS",
+		"info": "",
+        "status": 1
+    },
+	{  
+        "title": "Doom FPS",
+        "folder": "Doom Fps",
+        "author": "David Baumann",
+        "year": "2021_WS",
+        "info": "",
+        "status": 0
+    },
+    {  
+        "title": "Tales of Silverkeep",
+        "folder": "Tales of Silverkeep",
+        "author": "Andreas Aigner",
+        "year": "2021_WS",
+		"info": "",
+        "status": 1
+    },
+    {  
+        "title": "Jump n Run",
+        "folder": "JumpNRun",
+        "author": "Tamara Wimmer",
+        "year": "2021_WS",
+	"info": "",
+        "status": 1
+    },
+    {  
+        "title": "SchmandyRun",
+        "folder": "2DJumpAndRun",
+        "author": "Florian Nadler",
+        "year": "2021_WS",
+		"info": "",
+        "status": "1"
+    },
+    {  
+        "title": "CollectorGame",
+        "folder": "CollectorGame",
+        "author": "Fabian Fischer",
+        "year": "2021_WS",
+		"info": "",
+        "status": "1"
+    },
+    {  
+        "title": "Alquest",
+        "folder": "Alquest",
+        "author": "Michael Ungar",
+        "year": "2021_WS",
+		"info": "",
+        "status": "1"
+    },
+    {
+        "title": "4B Jump'n'Rune",
+	"folder": "4B_Jump_n_Run",
+	"author": "Tobias Wimmer",
+	"year": "2021_WS",
+	"info": "",
+	"status": 1
+    }
+]
