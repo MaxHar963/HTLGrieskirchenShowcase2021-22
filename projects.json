@@ -141,6 +141,7 @@
 		"info": "",
 	"status": "1"
 	},
+
   {
 	"title": "JumpNRun",
 	"folder": "JumpnRunGame",
@@ -165,6 +166,14 @@
 	"year": "2021_WS",
 		"info": "", 
 	"status": "1"
-	}
+	},
+  {
+		"title": "World War",
+		"folder": "WorldWar",
+		"author": "Erik Neulinger",
+		"year": "2021_WS",
+		"info": "",
+		"status": 1
+  }
     
 ]
