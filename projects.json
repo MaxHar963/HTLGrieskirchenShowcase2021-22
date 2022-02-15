@@ -119,5 +119,14 @@
 		"year": "2021_WS",
 		"info": "",
 		"status": 1
+	},
+	
+	{
+		"title": "Bomber2D",
+		"folder": "Bomber2D",
+		"author": "Martin Strasser",
+		"year": "2021_WS",
+		"info": "",
+		"status": 1
 	}
 ]
