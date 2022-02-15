@@ -88,6 +88,7 @@
 		"info": "",
         "status": "1"
     },
+
     {  
         "title": "Alquest",
         "folder": "Alquest",
@@ -112,7 +113,33 @@
 	"info": "",
 	"status": 1
     },
-    {
+
+	{
+		"title": "ChargeIt",
+		"folder": "ChargeIt",
+		"author": "Valentin Greiner",
+		"year": "2021_WS",
+		"info": "",
+		"status": 1
+	},
+	
+	{
+		"title": "Bomber2D",
+		"folder": "Bomber2D",
+		"author": "Martin Strasser",
+		"year": "2021_WS",
+		"info": "",
+		"status": 1
+	},
+  {
+	"title": "Racing Game",
+	"folder": "RacingGame",
+	"author": "Samuel Gierlinger",
+	"year": "2021_WS",
+		"info": "",
+	"status": "1"
+	},
+  {
 	"title": "JumpNRun",
 	"folder": "JumpnRunGame",
 	"author": "Matthias Stadlbauer",
