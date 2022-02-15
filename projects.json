@@ -5,7 +5,7 @@
         "author": "Fabian Schönberger",
         "year": "2021_WS",
 		"info": "",
-        "status": "1"
+        "status": 1
     },
     {  
         "title": "Potato Clicker",
@@ -13,16 +13,24 @@
         "author": "SturmTim",
         "year": "2021_WS",
 		"info": "",
-        "status": "1"
+        "status": 1
     },
-	{"title": "Impfpass Please", "folder": "ImpfpassPlease", "author": "Fabian Gurtner", "year": "2021_WS", "info": "", "status": "0"},
+	{"title": "Impfpass Please", "folder": "ImpfpassPlease", "author": "Fabian Gurtner", "year": "2021_WS", "info": "", "status": 0},
     {
 	"title": "Pacman",
         "folder": "Pacman",
         "author": "Franz Einböck",
         "year": "2021_WS",
 		"info": "",
-        "status": "1"
+        "status": 1
+    },
+{
+	"title": "StrategyGame",
+        "folder": "StrategyGame",
+        "author": "Sandro Greinecker",
+        "year": "2021_WS",
+		"info": "",
+        "status": 1
     },
     {  
         "title": "Tetris",
@@ -30,7 +38,7 @@
         "author": "Franz Einböck",
         "year": "2021_WS",
 		"info": "",
-        "status": "1"
+        "status": 1
     },
 	{  
         "title": "2D Racer",
@@ -38,15 +46,15 @@
         "author": "Klaus Scheiböck",
         "year": "2021_WS",
 		"info": "",
-        "status": "1"
-    }
+        "status": 1
+    },
 	{  
         "title": "Doom FPS",
         "folder": "Doom Fps",
         "author": "David Baumann",
         "year": "2021_WS",
         "info": "",
-        "status": "0"
+        "status": 0
     },
     {  
         "title": "Tales of Silverkeep",
@@ -54,7 +62,39 @@
         "author": "Andreas Aigner",
         "year": "2021_WS",
 		"info": "",
+        "status": 1
+    },
+    {  
+        "title": "Jump n Run",
+        "folder": "JumpNRun",
+        "author": "Tamara Wimmer",
+        "year": "2021_WS",
+	"info": "",
+        "status": 1
+    },
+    {  
+        "title": "SchmandyRun",
+        "folder": "2DJumpAndRun",
+        "author": "Florian Nadler",
+        "year": "2021_WS",
+		"info": "",
         "status": "1"
     },
+    {  
+        "title": "CollectorGame",
+        "folder": "CollectorGame",
+        "author": "Fabian Fischer",
+        "year": "2021_WS",
+		"info": "",
+        "status": "1"
+    },
+    {  
+        "title": "Alquest",
+        "folder": "Alquest",
+        "author": "Michael Ungar",
+        "year": "2021_WS",
+		"info": "",
+        "status": "1"
+    }
 
 ]
