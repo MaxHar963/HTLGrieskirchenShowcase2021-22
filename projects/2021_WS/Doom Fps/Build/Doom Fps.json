@@ -1,0 +1,13 @@
+{
+"companyName": "Baumann David",
+"productName": "Doom FPS",
+"dataUrl": "Doom Fps.data.unityweb",
+"wasmCodeUrl": "Doom Fps.wasm.code.unityweb",
+"wasmFrameworkUrl": "Doom Fps.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
