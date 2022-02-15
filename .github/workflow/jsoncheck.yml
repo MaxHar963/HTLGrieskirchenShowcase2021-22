@@ -2,6 +2,7 @@ name: JSON check
 
 on:
   pull_request:
+    types: [opened]
     paths:
       - '**.json'
 
