@@ -5,7 +5,7 @@
         "author": "Fabian Schönberger",
         "year": "2021_WS",
 		"info": "",
-        "status": "1"
+        "status": 1
     },
     {  
         "title": "Potato Clicker",
@@ -13,16 +13,16 @@
         "author": "SturmTim",
         "year": "2021_WS",
 		"info": "",
-        "status": "1"
+        "status": 1
     },
-	{"title": "Impfpass Please", "folder": "ImpfpassPlease", "author": "Fabian Gurtner", "year": "2021_WS", "info": "", "status": "0"},
+	{"title": "Impfpass Please", "folder": "ImpfpassPlease", "author": "Fabian Gurtner", "year": "2021_WS", "info": "", "status": 0},
     {
 	"title": "Pacman",
         "folder": "Pacman",
         "author": "Franz Einböck",
         "year": "2021_WS",
 		"info": "",
-        "status": "1"
+        "status": 1
     },
     {  
         "title": "Tetris",
@@ -30,7 +30,7 @@
         "author": "Franz Einböck",
         "year": "2021_WS",
 		"info": "",
-        "status": "1"
+        "status": 1
     },
 	{  
         "title": "2D Racer",
@@ -38,7 +38,7 @@
         "author": "Klaus Scheiböck",
         "year": "2021_WS",
 		"info": "",
-        "status": "1"
+        "status": 1
     }
 	{  
         "title": "Doom FPS",
@@ -46,7 +46,7 @@
         "author": "David Baumann",
         "year": "2021_WS",
         "info": "",
-        "status": "0"
+        "status": 0
     },
     {  
         "title": "Tales of Silverkeep",
@@ -54,7 +54,15 @@
         "author": "Andreas Aigner",
         "year": "2021_WS",
 		"info": "",
-        "status": "1"
+        "status": 1
+    },
+    {  
+        "title": "Jump n Run",
+        "folder": "JumpNRun",
+        "author": "Tamara Wimmer",
+        "year": "2021_WS",
+	"info": "",
+        "status": 1
     },
 
 ]
