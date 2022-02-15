@@ -88,6 +88,7 @@
 		"info": "",
         "status": "1"
     },
+
     {  
         "title": "Alquest",
         "folder": "Alquest",
@@ -112,6 +113,7 @@
 	"info": "",
 	"status": 1
     },
+
 	{
 		"title": "ChargeIt",
 		"folder": "ChargeIt",
@@ -128,5 +130,32 @@
 		"year": "2021_WS",
 		"info": "",
 		"status": 1
-	}
+	},
+  {
+	"title": "Racing Game",
+	"folder": "RacingGame",
+	"author": "Samuel Gierlinger",
+	"year": "2021_WS",
+		"info": "",
+	"status": "1"
+	},
+  {
+	"title": "JumpNRun",
+	"folder": "JumpnRunGame",
+	"author": "Matthias Stadlbauer",
+	"year": "2021_WS",
+	"info": "",
+	"status": 1
+    }
+	,
+	{  
+        "title": "Skiing Game",
+        "folder": "WebGl_SkiGame_Lkronlachner",
+        "author": "Lucas Kronlachner",
+        "year": "2021_WS",
+		"info": "",
+        "status": "1"
+    }
+
+    
 ]
