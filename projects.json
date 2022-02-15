@@ -24,6 +24,14 @@
 		"info": "",
         "status": 1
     },
+{
+	"title": "StrategyGame",
+        "folder": "StrategyGame",
+        "author": "Sandro Greinecker",
+        "year": "2021_WS",
+		"info": "",
+        "status": 1
+    },
     {  
         "title": "Tetris",
         "folder": "Tetris",
